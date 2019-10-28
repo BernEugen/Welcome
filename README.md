@@ -1,7 +1,5 @@
 ## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/BernEugen/cubofallgame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 Evhen Bernikevych built the Cubofall app as a Free app. This SERVICE is provided by Evhen Bernikevych at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
