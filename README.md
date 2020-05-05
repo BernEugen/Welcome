@@ -16,11 +16,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-[Facebook](https://www.facebook.com/about/privacy)
-
 [Unity](https://unity3d.com/legal/privacy-policy)
-
-[GameAnalytics](https://gameanalytics.com/privacy)
 
 **Log Data**
 
